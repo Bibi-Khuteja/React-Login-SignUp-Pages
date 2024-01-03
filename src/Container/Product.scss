@@ -1,0 +1,33 @@
+.mainDiv{
+    background-color: lightgray;
+
+    .cardRow{
+        max-width: 900px;
+        margin: auto;
+    
+        
+    .productCards{
+        background-color: rgb(240, 237, 237);
+        border-radius: 25px !important;
+    
+        .cards-img{
+            height: 140px;
+            border-radius: 20px;
+        
+        }
+        .fontsize{
+            font-size: small;
+        }
+    }
+    }
+}
+
+.cate{
+   color: #138496;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-style: italic;
+}
+.colorLink{
+    color: rgb(134, 20, 134) !important;
+    font-style: oblique;
+}
